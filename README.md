@@ -1,3 +1,3 @@
 # DEMO
 
-Getting Started with GitHuB.
+Getting Started with GitHuB!
